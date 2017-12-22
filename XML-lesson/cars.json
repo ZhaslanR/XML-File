@@ -1,0 +1,25 @@
+﻿{
+  "str": "строка",
+  "number ": 15.4,
+
+  "cars": [
+    {
+      "id": "249d4004-1f88-4620-92f3-a00b8faf62d8",
+      "mark": "Ford Mustang",
+      "madeDate": "12.10.1983",
+      "rating": "5"
+    },
+    {
+      "id": "249d4004-1f88-4620-92f3-a00b8faf62d8",
+      "mark": "Ford Mustang",
+      "madeDate": "12.10.1983",
+      "rating": "4"
+    },
+    {
+      "id": "249d4004-1f88-4620-92f3-a00b8faf62d8",
+      "mark": "Ford Mustang",
+      "madeDate": "12.10.1983",
+      "rating": "3"
+    }
+  ]
+}

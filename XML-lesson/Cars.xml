@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<cars> 
+<car> 
+<id type="Guid"> 249d4004-1f88-4620-92f3-a00b8faf62d8 </id> 
+<mark>ford mustang</mark> 
+<madedate>12.10.1983</madedate> 
+<rating value="5"/> 
+</car> 
+
+
+<car> 
+<id type="Guid"> 249d4004-1f88-4620-92f3-a00b8faf62d8 </id> 
+<mark>ford mustang</mark> 
+<madedate>12.10.1983</madedate> 
+<rating value="4"/> 
+</car> 
+
+  
+<car> 
+<id type="Guid"> 249d4004-1f88-4620-92f3-a00b8faf62d8 </id> 
+<mark>ford mustang</mark> 
+<madedate>12.10.1983</madedate> 
+<rating value="3"/> 
+</car> 
+
+
+</cars>
